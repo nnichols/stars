@@ -15,7 +15,7 @@ jobs:
 
       - name: Create star list
         id: stargazer
-        uses: rverst/stargazer@v1.1.1
+        uses: rverst/stargazer@v1.2.6
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
