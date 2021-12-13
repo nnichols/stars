@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `141`
+Total starred repositories: `143`
 ## Contents
 
   - [C](#c)
@@ -153,6 +153,7 @@ Total starred repositories: `141`
   - [liffiton/code2tex](https://github.com/liffiton/code2tex) - Convert source code to a LaTeX document / PDF with syntax highlighting and line numbers. \[*MIT License*\] (⭐️23)
   - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! (⭐️37631)
   - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. \[*MIT License*\] (⭐️41616)
+  - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! \[*GNU AGPLv3*\] (⭐️6255)
   - [reviewdog/action-detect-secrets](https://github.com/reviewdog/action-detect-secrets) - GitHub Action: Run detect-secrets with reviewdog \[*MIT License*\] (⭐️9)
   - [saadmk11/github-actions-version-updater](https://github.com/saadmk11/github-actions-version-updater) - GitHub Actions Version Updater Updates All GitHub Action Versions in a Repository and Creates a Pull Request with the Changes. \[*MIT License*\] (⭐️17)
   - [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history \[*GNU GPLv2*\] (⭐️6217)
@@ -175,14 +176,15 @@ Total starred repositories: `141`
 ## Shell
 
   - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. \[*MIT License*\] (⭐️28092)
+  - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web \[*GNU GPLv3*\] (⭐️1861)
   - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions \[*MIT License*\] (⭐️53772)
-  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️137771)
+  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️137773)
   - [rdgd/dotfiles](https://github.com/rdgd/dotfiles) - .dotfiles (⭐️1)
   - [reviewdog/action-hadolint](https://github.com/reviewdog/action-hadolint) - Run hadolint with reviewdog 🐶 \[*MIT License*\] (⭐️37)
   - [reviewdog/action-languagetool](https://github.com/reviewdog/action-languagetool) - Run languagetool with reviewdog :dog: \[*MIT License*\] (⭐️22)
   - [reviewdog/action-remark-lint](https://github.com/reviewdog/action-remark-lint) - Run remark-lint with Reviewdog :dog: \[*MIT License*\] (⭐️2)
   - [reviewdog/action-tflint](https://github.com/reviewdog/action-tflint) - Run tflint with reviewdog on pull requests to enforce best practices \[*MIT License*\] (⭐️55)
-  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme \[*MIT License*\] (⭐️23515)
+  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme \[*MIT License*\] (⭐️23516)
 
 ## TypeScript
 
@@ -195,7 +197,7 @@ Total starred repositories: `141`
   - [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) - Clojure & ClojureScript Interactive Programming for VS Code (⭐️1034)
   - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️125157)
   - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno. \[*MIT License*\] (⭐️5176)
-  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app. \[*MIT License*\] (⭐️4494)
+  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app. \[*MIT License*\] (⭐️4495)
   - [Tyfoods/3js-nn-visualizer](https://github.com/Tyfoods/3js-nn-visualizer) - Visualize a simple feed forward neural network with arbitrary hidden layers (⭐️1)
 
 ## Unknown
