@@ -33,23 +33,23 @@ Total starred repositories: `208`
 
 ## C
 
-  - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (⭐️35329)
-  - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository. (⭐️3593)
+  - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (⭐️35385)
+  - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository. (⭐️3602)
 
 ## C#
 
   - [kfmike/InputVisualizer](https://github.com/kfmike/InputVisualizer) - Realtime game controller input viewer for classic consoles and PC \[*GNU GPLv3*\] (⭐️34)
-  - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation \[*GNU AGPLv3*\] (⭐️1184)
+  - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation \[*GNU AGPLv3*\] (⭐️1188)
 
 ## C++
 
   - [ANYCUBIC-3D/ANYCUBIC_Kossel_Source_Code](https://github.com/ANYCUBIC-3D/ANYCUBIC_Kossel_Source_Code) - DELTA 3D  printer \[*MIT License*\] (⭐️46)
-  - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS \[*MIT License*\] (⭐️113651)
+  - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS \[*MIT License*\] (⭐️113694)
 
 ## CSS
 
-  - [heroku/12factor](https://github.com/heroku/12factor) -  \[*MIT License*\] (⭐️3656)
-  - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. \[*GNU AGPLv3*\] (⭐️2155)
+  - [heroku/12factor](https://github.com/heroku/12factor) -  \[*MIT License*\] (⭐️3665)
+  - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. \[*GNU AGPLv3*\] (⭐️2158)
 
 ## Clojure
 
@@ -57,77 +57,77 @@ Total starred repositories: `208`
   - [bensu/doo](https://github.com/bensu/doo) - doo is a library and lein plugin to run cljs.test on different js environments. \[*Eclipse Public License 1.0*\] (⭐️324)
   - [bhb/expound](https://github.com/bhb/expound) - Human-optimized error messages for clojure.spec \[*Eclipse Public License 1.0*\] (⭐️924)
   - [borkdude/api-diff](https://github.com/borkdude/api-diff) - Print API diffs between library versions (⭐️59)
-  - [borkdude/quickdoc](https://github.com/borkdude/quickdoc) - Quick and minimal API doc generation for Clojure \[*MIT License*\] (⭐️124)
+  - [borkdude/quickdoc](https://github.com/borkdude/quickdoc) - Quick and minimal API doc generation for Clojure \[*MIT License*\] (⭐️125)
   - [borkdude/respeced](https://github.com/borkdude/respeced) - Testing library for clojure.spec fdefs \[*Eclipse Public License 1.0*\] (⭐️52)
   - [clj-commons/digest](https://github.com/clj-commons/digest) - Digest algorithms (md5, sha1 ...) for Clojure (⭐️157)
   - [clj-commons/etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation \[*Eclipse Public License 1.0*\] (⭐️908)
   - [clj-commons/rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure code and edn \[*MIT License*\] (⭐️590)
-  - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy \[*Eclipse Public License 1.0*\] (⭐️1692)
+  - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy \[*Eclipse Public License 1.0*\] (⭐️1690)
   - [clj-kondo/inspector](https://github.com/clj-kondo/inspector) - Turn Clojure specs into clj-kondo type annotations \[*Eclipse Public License 1.0*\] (⭐️31)
   - [clj-kondo/lein-clj-kondo](https://github.com/clj-kondo/lein-clj-kondo) - Leiningen plugin to run clj-kondo \[*Eclipse Public License 1.0*\] (⭐️14)
   - [cljdoc/cljdoc](https://github.com/cljdoc/cljdoc) - 📚 A central documentation hub for the Clojure community \[*Eclipse Public License 2.0*\] (⭐️537)
-  - [clojure-emacs/cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) - A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc.  (⭐️673)
+  - [clojure-emacs/cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) - A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc.  (⭐️675)
   - [clojure-goes-fast/clj-memory-meter](https://github.com/clojure-goes-fast/clj-memory-meter) - Measure object memory consumption in Clojure (⭐️290)
-  - [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation \[*MIT License*\] (⭐️1156)
-  - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler \[*Eclipse Public License 1.0*\] (⭐️9218)
+  - [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation \[*MIT License*\] (⭐️1160)
+  - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler \[*Eclipse Public License 1.0*\] (⭐️9215)
   - [clojure/core.match](https://github.com/clojure/core.match) - An optimized pattern matching library for Clojure \[*Eclipse Public License 1.0*\] (⭐️1185)
   - [clojure/math.combinatorics](https://github.com/clojure/math.combinatorics) - Efficient, functional algorithms for generating lazy sequences for common combinatorial functions \[*Eclipse Public License 1.0*\] (⭐️344)
   - [clojure/spec.alpha](https://github.com/clojure/spec.alpha) - Clojure library to describe the structure of data and functions \[*Eclipse Public License 1.0*\] (⭐️219)
-  - [clojure/tools.cli](https://github.com/clojure/tools.cli) - Command-line processing \[*Eclipse Public License 1.0*\] (⭐️719)
-  - [dakrone/clj-http](https://github.com/dakrone/clj-http) - An idiomatic clojure http client wrapping the apache client. Officially supported version. \[*MIT License*\] (⭐️1773)
+  - [clojure/tools.cli](https://github.com/clojure/tools.cli) - Command-line processing \[*Eclipse Public License 1.0*\] (⭐️720)
+  - [dakrone/clj-http](https://github.com/dakrone/clj-http) - An idiomatic clojure http client wrapping the apache client. Officially supported version. \[*MIT License*\] (⭐️1776)
   - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React \[*MIT License*\] (⭐️5411)
   - [day8/re-frame-10x](https://github.com/day8/re-frame-10x) - A debugging dashboard for re-frame.  X-ray vision as tooling. \[*MIT License*\] (⭐️631)
   - [dpassen/malapropism](https://github.com/dpassen/malapropism) - Malli-backed configuration library \[*MIT License*\] (⭐️32)
   - [funcool/buddy](https://github.com/funcool/buddy) - Security library for Clojure \[*Apache License 2.0*\] (⭐️827)
-  - [grammarly/perseverance](https://github.com/grammarly/perseverance) - Flexible retries library for Clojure \[*Apache License 2.0*\] (⭐️181)
+  - [grammarly/perseverance](https://github.com/grammarly/perseverance) - Flexible retries library for Clojure \[*Apache License 2.0*\] (⭐️182)
   - [greglook/cljstyle](https://github.com/greglook/cljstyle) - A tool for formatting Clojure code \[*Eclipse Public License 1.0*\] (⭐️293)
   - [griffinbank/rules_clojure](https://github.com/griffinbank/rules_clojure) -  \[*Apache License 2.0*\] (⭐️53)
   - [ilevd/ns-sort](https://github.com/ilevd/ns-sort) - Leiningen plugin for sorting Clojure namespaces. \[*Eclipse Public License 2.0*\] (⭐️17)
-  - [incanter/incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM (⭐️2238)
-  - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection (⭐️6755)
+  - [incanter/incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM (⭐️2239)
+  - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection (⭐️6766)
   - [johnmaruska/dnd](https://github.com/johnmaruska/dnd) -  \[*Eclipse Public License 2.0*\] (⭐️1)
-  - [juxt/tick](https://github.com/juxt/tick) - Time as a value. \[*MIT License*\] (⭐️595)
-  - [liquidz/antq](https://github.com/liquidz/antq) - Point out your outdated dependencies. (⭐️398)
+  - [juxt/tick](https://github.com/juxt/tick) - Time as a value. \[*MIT License*\] (⭐️599)
+  - [liquidz/antq](https://github.com/liquidz/antq) - Point out your outdated dependencies. (⭐️399)
   - [ljtfreitas/clj-aws-localstack-lab](https://github.com/ljtfreitas/clj-aws-localstack-lab) - some examples using localstack with clojure (⭐️2)
   - [madvas/cljs-react-material-ui](https://github.com/madvas/cljs-react-material-ui) - Clojurescript library for using material-ui.com \[*Eclipse Public License 1.0*\] (⭐️205)
   - [metosin/compojure-api](https://github.com/metosin/compojure-api) - Sweet web apis with Compojure & Swagger \[*Eclipse Public License 1.0*\] (⭐️1113)
-  - [metosin/jsonista](https://github.com/metosin/jsonista) - Clojure library for fast JSON encoding and decoding. \[*Eclipse Public License 2.0*\] (⭐️408)
+  - [metosin/jsonista](https://github.com/metosin/jsonista) - Clojure library for fast JSON encoding and decoding. \[*Eclipse Public License 2.0*\] (⭐️409)
   - [metosin/muuntaja](https://github.com/metosin/muuntaja) - Clojure library for fast http api format negotiation, encoding and decoding. \[*Eclipse Public License 2.0*\] (⭐️446)
   - [metosin/ring-http-response](https://github.com/metosin/ring-http-response) - Handling HTTP Statuses with Clojure(Script) \[*Eclipse Public License 1.0*\] (⭐️147)
   - [nberger/ring-logger](https://github.com/nberger/ring-logger) - Log ring requests & responses using your favorite logging backend \[*Eclipse Public License 1.0*\] (⭐️98)
-  - [nrepl/nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments. (⭐️774)
-  - [nubank/matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for creating matcher combinator to compare nested data structures (⭐️454)
+  - [nrepl/nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments. (⭐️775)
+  - [nubank/matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for creating matcher combinator to compare nested data structures (⭐️457)
   - [nytimes/jsonlogic](https://github.com/nytimes/jsonlogic) -  (⭐️20)
   - [pauldorman/clj-ldap](https://github.com/pauldorman/clj-ldap) - Clojure LDAP client (⭐️88)
   - [quoll/cljs-math](https://github.com/quoll/cljs-math) - A ClojureScript port of clojure.java.math \[*Eclipse Public License 2.0*\] (⭐️56)
   - [randomcorp/thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang](https://github.com/randomcorp/thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang) - The exciting new ->->><?as->cond->! macro (⭐️524)
-  - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js \[*MIT License*\] (⭐️4744)
-  - [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction \[*MIT License*\] (⭐️3750)
+  - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js \[*MIT License*\] (⭐️4749)
+  - [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction \[*MIT License*\] (⭐️3752)
   - [ring-clojure/ring-mock](https://github.com/ring-clojure/ring-mock) - Library to create mock Ring requests for unit tests \[*MIT License*\] (⭐️182)
   - [rm-hull/nvd-clojure](https://github.com/rm-hull/nvd-clojure) - National Vulnerability Database dependency checker for Clojure projects \[*MIT License*\] (⭐️275)
   - [RutledgePaulV/gravity](https://github.com/RutledgePaulV/gravity) - Animation of interactions between masses subject to gravity (⭐️2)
-  - [seancorfield/next-jdbc](https://github.com/seancorfield/next-jdbc) - A modern low-level Clojure wrapper for JDBC-based access to databases. \[*Eclipse Public License 1.0*\] (⭐️757)
-  - [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library \[*Eclipse Public License 1.0*\] (⭐️1441)
-  - [taoensso/tufte](https://github.com/taoensso/tufte) - Simple performance monitoring library for Clojure/Script \[*Eclipse Public License 1.0*\] (⭐️539)
-  - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror (⭐️7295)
+  - [seancorfield/next-jdbc](https://github.com/seancorfield/next-jdbc) - A modern low-level Clojure wrapper for JDBC-based access to databases. \[*Eclipse Public License 1.0*\] (⭐️760)
+  - [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library \[*Eclipse Public License 1.0*\] (⭐️1444)
+  - [taoensso/tufte](https://github.com/taoensso/tufte) - Simple performance monitoring library for Clojure/Script \[*Eclipse Public License 1.0*\] (⭐️540)
+  - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror (⭐️7291)
   - [teknql/shadow-cljs-tailwind-jit](https://github.com/teknql/shadow-cljs-tailwind-jit) - Shadow build hooks for enabling JIT compilation of Tailwind CSS (⭐️95)
   - [tessellator/resilience4clj-circuitbreaker](https://github.com/tessellator/resilience4clj-circuitbreaker) - A small Clojure wrapper around the resilience4j CircuitBreaker module \[*Eclipse Public License 2.0*\] (⭐️4)
   - [tolitius/mount](https://github.com/tolitius/mount) - managing Clojure and ClojureScript app state since (reset) \[*Eclipse Public License 1.0*\] (⭐️1222)
   - [tomekw/hikari-cp](https://github.com/tomekw/hikari-cp) - A Clojure wrapper to HikariCP JDBC connection pool \[*Eclipse Public License 1.0*\] (⭐️414)
-  - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures \[*SIL Open Font License 1.1*\] (⭐️76654)
+  - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures \[*SIL Open Font License 1.1*\] (⭐️76722)
   - [weavejester/codox](https://github.com/weavejester/codox) - Clojure documentation tool \[*Eclipse Public License 1.0*\] (⭐️668)
-  - [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure \[*Eclipse Public License 1.0*\] (⭐️4079)
-  - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure \[*Eclipse Public License 1.0*\] (⭐️2677)
+  - [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure \[*Eclipse Public License 1.0*\] (⭐️4081)
+  - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure \[*Eclipse Public License 1.0*\] (⭐️2678)
   - [weavejester/meta-merge](https://github.com/weavejester/meta-merge) - A standalone implementation of Leiningen's meta-merge function (⭐️103)
-  - [yogthos/migratus](https://github.com/yogthos/migratus) - MIGRATE ALL THE THINGS! (⭐️642)
-  - [yogthos/Selmer](https://github.com/yogthos/Selmer) - A fast, Django inspired template system in Clojure. \[*Eclipse Public License 1.0*\] (⭐️973)
+  - [yogthos/migratus](https://github.com/yogthos/migratus) - MIGRATE ALL THE THINGS! (⭐️643)
+  - [yogthos/Selmer](https://github.com/yogthos/Selmer) - A fast, Django inspired template system in Clojure. \[*Eclipse Public License 1.0*\] (⭐️975)
   - [Yomguithereal/clj-fuzzy](https://github.com/Yomguithereal/clj-fuzzy) - A handy collection of algorithms dealing with fuzzy strings and phonetics. \[*MIT License*\] (⭐️261)
 
 ## Dockerfile
 
   - [1and1/vscode-remote-try-clojure](https://github.com/1and1/vscode-remote-try-clojure) - vscode-remote container for clojure (⭐️4)
   - [borkdude/babashka-docker-action-example](https://github.com/borkdude/babashka-docker-action-example) -  (⭐️14)
-  - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. \[*Apache License 2.0*\] (⭐️60354)
+  - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. \[*Apache License 2.0*\] (⭐️60398)
 
 ## F#
 
@@ -135,60 +135,60 @@ Total starred repositories: `208`
 
 ## Go
 
-  - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy \[*MIT License*\] (⭐️6656)
+  - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy \[*MIT License*\] (⭐️6657)
   - [conradludgate/terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify) - Terraform provider for spotify \[*MIT License*\] (⭐️495)
-  - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (⭐️42120)
-  - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. \[*Mozilla Public License 2.0*\] (⭐️9727)
+  - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (⭐️42307)
+  - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. \[*Mozilla Public License 2.0*\] (⭐️9739)
   - [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) - GitHub Action to sync GitHub labels in the declarative way \[*Apache License 2.0*\] (⭐️196)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️53744)
-  - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language \[*MIT License*\] (⭐️7768)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️53910)
+  - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language \[*MIT License*\] (⭐️7782)
   - [ribtoks/tdg-github-action](https://github.com/ribtoks/tdg-github-action) - GitHub action for project management using TODO comments \[*MIT License*\] (⭐️55)
-  - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️34)
-  - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! \[*MIT License*\] (⭐️13728)
-  - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials \[*GNU AGPLv3*\] (⭐️15579)
+  - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️36)
+  - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! \[*MIT License*\] (⭐️13751)
+  - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials \[*GNU AGPLv3*\] (⭐️15633)
 
 ## HTML
 
-  - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts. \[*MIT License*\] (⭐️5923)
-  - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers. \[*Creative Commons Attribution 4.0 International*\] (⭐️11084)
+  - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts. \[*MIT License*\] (⭐️5927)
+  - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers. \[*Creative Commons Attribution 4.0 International*\] (⭐️11100)
 
 ## Haskell
 
-  - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter (⭐️33872)
-  - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts \[*GNU GPLv3*\] (⭐️36069)
+  - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter (⭐️33951)
+  - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts \[*GNU GPLv3*\] (⭐️36104)
 
 ## Java
 
-  - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system \[*Apache License 2.0*\] (⭐️22953)
-  - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (⭐️10429)
-  - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client \[*Apache License 2.0*\] (⭐️39175)
-  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️21209)
+  - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system \[*Apache License 2.0*\] (⭐️22979)
+  - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (⭐️10436)
+  - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client \[*Apache License 2.0*\] (⭐️39264)
+  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️21224)
   - [lbkulinski/CTA4j](https://github.com/lbkulinski/CTA4j) - A collection of Java-based projects related to the Chicago Transit Authority \[*MIT License*\] (⭐️5) *Archived!*
 
 ## JavaScript
 
-  - [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors \[*MIT License*\] (⭐️756)
+  - [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors \[*MIT License*\] (⭐️758)
   - [adr/adr-log](https://github.com/adr/adr-log) -  Generate an architectural decision record log (adr-log) out of architectural decision records (ADRs) \[*MIT License*\] (⭐️77)
   - [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action) - A github action to automate a contributors section in readme. \[*MIT License*\] (⭐️157)
-  - [BetaHuhn/repo-file-sync-action](https://github.com/BetaHuhn/repo-file-sync-action) - 🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories. \[*MIT License*\] (⭐️281)
+  - [BetaHuhn/repo-file-sync-action](https://github.com/BetaHuhn/repo-file-sync-action) - 🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories. \[*MIT License*\] (⭐️283)
   - [datreeio/validate-license-action](https://github.com/datreeio/validate-license-action) - Validate a license file exists and is one of the allowed licenses \[*MIT License*\] (⭐️21)
   - [DeLaGuardo/clojure-lint-action](https://github.com/DeLaGuardo/clojure-lint-action) -  \[*MIT License*\] (⭐️42)
   - [DLvalentine/fate](https://github.com/DLvalentine/fate) - A dice roller bot for discord with GM mode! \[*MIT License*\] (⭐️2)
   - [dpassen/is-cowboy](https://github.com/dpassen/is-cowboy) - Checks whether a value is a cowboy \[*MIT License*\] (⭐️2)
-  - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. \[*MIT License*\] (⭐️227132)
-  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (⭐️73493)
+  - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. \[*MIT License*\] (⭐️227405)
+  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (⭐️73507)
   - [htck/bayeux](https://github.com/htck/bayeux) - Historic Tale Construction Kit - opensource and customizable version ! \[*MIT License*\] (⭐️803)
   - [Ilshidur/action-discord](https://github.com/Ilshidur/action-discord) - 🚀 GitHub Action that sends a Discord message. \[*MIT License*\] (⭐️395)
   - [jordanful/All-Aboard](https://github.com/jordanful/All-Aboard) - :bus: A simple bus tracker for Chicago's CTA, built with React Native (⭐️6)
-  - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine \[*MIT License*\] (⭐️49569)
+  - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine \[*MIT License*\] (⭐️49600)
   - [JustinBeckwith/linkinator-action](https://github.com/JustinBeckwith/linkinator-action) - A GitHub Action that checks your README and other markdown for 404s. \[*MIT License*\] (⭐️30)
-  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️13436)
-  - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown \[*MIT License*\] (⭐️1061)
-  - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (⭐️106425)
+  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️13467)
+  - [naturalcrit/homebrewery](https://github.com/naturalcrit/homebrewery) - Create authentic looking D&D homebrews using only markdown \[*MIT License*\] (⭐️1066)
+  - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (⭐️106547)
   - [Sparrho/supper-demo](https://github.com/Sparrho/supper-demo) - A pure-ClojureScript isomorphic rendering project, using Om/React, Sablono and Node.js \[*Modified BSD License*\] (⭐️56)
-  - [theonion/comcastifyjs](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. \[*MIT License*\] (⭐️1259) *Archived!*
-  - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites. \[*MIT License*\] (⭐️4218)
-  - [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request \[*MIT License*\] (⭐️315)
+  - [theonion/comcastifyjs](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. \[*MIT License*\] (⭐️1258) *Archived!*
+  - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites. \[*MIT License*\] (⭐️4223)
+  - [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request \[*MIT License*\] (⭐️316)
 
 ## PHP
 
@@ -200,58 +200,58 @@ Total starred repositories: `208`
 
 ## Processing
 
-  - [processing-js/processing-js](https://github.com/processing-js/processing-js) - A port of the Processing visualization language to JavaScript. (⭐️3093) *Archived!*
+  - [processing-js/processing-js](https://github.com/processing-js/processing-js) - A port of the Processing visualization language to JavaScript. (⭐️3092) *Archived!*
 
 ## Python
 
-  - [citation-file-format/citation-file-format](https://github.com/citation-file-format/citation-file-format) - The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines. \[*Creative Commons Attribution 4.0 International*\] (⭐️440)
+  - [citation-file-format/citation-file-format](https://github.com/citation-file-format/citation-file-format) - The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines. \[*Creative Commons Attribution 4.0 International*\] (⭐️444)
   - [Isklar/DiceBot](https://github.com/Isklar/DiceBot) - D&D Dice rolling bot for discord written in python. (⭐️10) *Archived!*
   - [lambduhh/polyjamoury](https://github.com/lambduhh/polyjamoury) - An app that utilizes the spotify API to analyze user data and create playlists. (⭐️1)
   - [liffiton/code2tex](https://github.com/liffiton/code2tex) - Convert source code to a LaTeX document / PDF with syntax highlighting and line numbers. \[*MIT License*\] (⭐️26)
-  - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline (⭐️53685)
-  - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. \[*MIT License*\] (⭐️46123)
-  - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! \[*GNU AGPLv3*\] (⭐️8224)
+  - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline (⭐️53755)
+  - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. \[*MIT License*\] (⭐️46133)
+  - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! \[*GNU AGPLv3*\] (⭐️8231)
   - [reviewdog/action-detect-secrets](https://github.com/reviewdog/action-detect-secrets) - GitHub Action: Run detect-secrets with reviewdog \[*MIT License*\] (⭐️22)
   - [saadmk11/github-actions-version-updater](https://github.com/saadmk11/github-actions-version-updater) - A GitHub Action that Updates All GitHub Actions in a Repository and Creates a Pull Request with the Updates \[*MIT License*\] (⭐️91)
-  - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. \[*Apache License 2.0*\] (⭐️3726)
-  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️131202)
+  - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. \[*Apache License 2.0*\] (⭐️3736)
+  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️131304)
 
 ## Ruby
 
-  - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. \[*MIT License*\] (⭐️4606)
+  - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. \[*MIT License*\] (⭐️4618)
   - [fabrik42/cat_facts](https://github.com/fabrik42/cat_facts) - Rack middleware that to add cat facts in headers of HTTP responses. \[*MIT License*\] (⭐️12)
-  - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers. \[*MIT License*\] (⭐️11223)
-  - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. (⭐️26157)
-  - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) \[*BSD 2-Clause "Simplified" License*\] (⭐️40738)
-  - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by! \[*MIT License*\] (⭐️42749)
-  - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications \[*GNU AGPLv3*\] (⭐️4337)
+  - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers. \[*MIT License*\] (⭐️11224)
+  - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. (⭐️26178)
+  - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) \[*BSD 2-Clause "Simplified" License*\] (⭐️40789)
+  - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by! \[*MIT License*\] (⭐️42815)
+  - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications \[*GNU AGPLv3*\] (⭐️4336)
   - [toptal/crystalball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite \[*MIT License*\] (⭐️322)
 
 ## Rust
 
   - [alexwlchan/dominant_colours](https://github.com/alexwlchan/dominant_colours) - A CLI tool to find the dominant colours in an image 🎨 \[*MIT License*\] (⭐️90)
-  - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust \[*Apache License 2.0*\] (⭐️35035)
-  - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust (⭐️15398)
-  - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust \[*Mozilla Public License 2.0*\] (⭐️17641)
-  - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️96620)
-  - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 \[*MIT License*\] (⭐️20432)
+  - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust \[*Apache License 2.0*\] (⭐️35139)
+  - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust (⭐️15437)
+  - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust \[*Mozilla Public License 2.0*\] (⭐️17687)
+  - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️96766)
+  - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 \[*MIT License*\] (⭐️20495)
 
 ## Shell
 
-  - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories \[*Apache License 2.0*\] (⭐️12297)
-  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. \[*MIT License*\] (⭐️36414) *Archived!*
-  - [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action) - Publish Github releases in an action \[*MIT License*\] (⭐️170)
-  - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web \[*GNU GPLv3*\] (⭐️2469)
-  - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions \[*MIT License*\] (⭐️78688)
-  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️172282)
-  - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide \[*Creative Commons Attribution 4.0 International*\] (⭐️35642)
-  - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (⭐️48413)
+  - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories \[*Apache License 2.0*\] (⭐️12305)
+  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. \[*MIT License*\] (⭐️36426) *Archived!*
+  - [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action) - Publish Github releases in an action \[*MIT License*\] (⭐️171)
+  - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web \[*GNU GPLv3*\] (⭐️2470)
+  - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions \[*MIT License*\] (⭐️78953)
+  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️172439)
+  - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide \[*Creative Commons Attribution 4.0 International*\] (⭐️35649)
+  - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (⭐️48476)
   - [rdgd/dotfiles](https://github.com/rdgd/dotfiles) - .dotfiles (⭐️1)
   - [reviewdog/action-hadolint](https://github.com/reviewdog/action-hadolint) - Run hadolint with reviewdog 🐶 \[*MIT License*\] (⭐️48)
   - [reviewdog/action-languagetool](https://github.com/reviewdog/action-languagetool) - Run languagetool with reviewdog :dog: \[*MIT License*\] (⭐️39)
   - [reviewdog/action-remark-lint](https://github.com/reviewdog/action-remark-lint) - Run remark-lint with Reviewdog :dog: \[*MIT License*\] (⭐️5)
   - [reviewdog/action-tflint](https://github.com/reviewdog/action-tflint) - Run tflint with reviewdog on pull requests to enforce best practices \[*MIT License*\] (⭐️107)
-  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme \[*MIT License*\] (⭐️45421)
+  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme \[*MIT License*\] (⭐️45514)
 
 ## Starlark
 
@@ -259,55 +259,55 @@ Total starred repositories: `208`
 
 ## TypeScript
 
-  - [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one \[*GNU GPLv3*\] (⭐️118)
-  - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions \[*MIT License*\] (⭐️4443)
-  - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo \[*MIT License*\] (⭐️5695)
-  - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/ \[*MIT License*\] (⭐️117)
-  - [actions/download-artifact](https://github.com/actions/download-artifact) -  \[*MIT License*\] (⭐️1367)
-  - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript \[*MIT License*\] (⭐️4114)
-  - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests \[*MIT License*\] (⭐️1913)
-  - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction \[*MIT License*\] (⭐️1344)
-  - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows  (⭐️8889)
-  - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. \[*MIT License*\] (⭐️4905)
-  - [actions/upload-artifact](https://github.com/actions/upload-artifact) -  \[*MIT License*\] (⭐️3101)
+  - [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one \[*GNU GPLv3*\] (⭐️119)
+  - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions \[*MIT License*\] (⭐️4455)
+  - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo \[*MIT License*\] (⭐️5730)
+  - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/ \[*MIT License*\] (⭐️118)
+  - [actions/download-artifact](https://github.com/actions/download-artifact) -  \[*MIT License*\] (⭐️1376)
+  - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript \[*MIT License*\] (⭐️4127)
+  - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests \[*MIT License*\] (⭐️1923)
+  - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction \[*MIT License*\] (⭐️1343)
+  - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows  (⭐️8943)
+  - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. \[*MIT License*\] (⭐️4910)
+  - [actions/upload-artifact](https://github.com/actions/upload-artifact) -  \[*MIT License*\] (⭐️3119)
   - [andresz1/size-limit-action](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request \[*ISC License*\] (⭐️446)
-  - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSON Schema to TypeScript type declarations \[*MIT License*\] (⭐️2903)
-  - [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) - Clojure & ClojureScript Interactive Programming for VS Code (⭐️1619)
-  - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference \[*MIT License*\] (⭐️32857)
-  - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API \[*Apache License 2.0*\] (⭐️25221)
+  - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSON Schema to TypeScript type declarations \[*MIT License*\] (⭐️2910)
+  - [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) - Clojure & ClojureScript Interactive Programming for VS Code (⭐️1623)
+  - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference \[*MIT License*\] (⭐️32966)
+  - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API \[*Apache License 2.0*\] (⭐️25239)
   - [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code. \[*MIT License*\] (⭐️1067)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️162202)
-  - [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report) - Reports junit test results as GitHub Pull Request Check \[*Apache License 2.0*\] (⭐️301)
-  - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno. \[*MIT License*\] (⭐️6925)
-  - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment \[*MIT License*\] (⭐️675)
-  - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (⭐️1293)
-  - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io \[*GNU AGPLv3*\] (⭐️17088)
-  - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool (⭐️18302)
-  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️81756)
-  - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR) \[*Apache License 2.0*\] (⭐️1114)
-  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web. (⭐️35139)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️162429)
+  - [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report) - Reports junit test results as GitHub Pull Request Check \[*Apache License 2.0*\] (⭐️304)
+  - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno. \[*MIT License*\] (⭐️6938)
+  - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment \[*MIT License*\] (⭐️678)
+  - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (⭐️1297)
+  - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io \[*GNU AGPLv3*\] (⭐️17142)
+  - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool (⭐️18465)
+  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️81890)
+  - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR) \[*Apache License 2.0*\] (⭐️1117)
+  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web. (⭐️35196)
   - [Tyfoods/3js-nn-visualizer](https://github.com/Tyfoods/3js-nn-visualizer) - Visualize a simple feed forward neural network with arbitrary hidden layers (⭐️1)
   - [tylermurry/github-pr-landmine](https://github.com/tylermurry/github-pr-landmine) - A simple, language agnostic solution for creating manual mutation tests directly in-line with a GitHub pull request (⭐️33)
   - [wow-actions/contributors-list](https://github.com/wow-actions/contributors-list) - 🌈 Automatically generate contributors.svg for your repository \[*MIT License*\] (⭐️46)
 
 ## Unknown
 
-  - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features. \[*MIT License*\] (⭐️19437)
+  - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features. \[*MIT License*\] (⭐️19455)
   - [ANYCUBIC-3D/PhotonWorkshop](https://github.com/ANYCUBIC-3D/PhotonWorkshop) - Photon Workshop is a 3D slicer software. (⭐️58)
-  - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language (⭐️3996)
-  - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects \[*MIT License*\] (⭐️44382)
+  - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language (⭐️4000)
+  - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects \[*MIT License*\] (⭐️44476)
   - [janelleshane/DnD_bios](https://github.com/janelleshane/DnD_bios) - Crowdsourced dataset of D&D character biographies (⭐️18)
   - [jcvernaleo/brewing](https://github.com/jcvernaleo/brewing) -  (⭐️1)
-  - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (⭐️152612)
-  - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows. (⭐️288)
-  - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥 (⭐️2666)
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️142878)
+  - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (⭐️152765)
+  - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows. (⭐️291)
+  - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥 (⭐️2665)
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️143469)
 
 ## Vim Script
 
-  - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned \[*MIT License*\] (⭐️13369)
+  - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned \[*MIT License*\] (⭐️13373)
 
 ## Vue
 
-  - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles \[*Apache License 2.0*\] (⭐️19836)
+  - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles \[*Apache License 2.0*\] (⭐️19834)
 
